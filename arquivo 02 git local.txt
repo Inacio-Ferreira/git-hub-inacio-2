@@ -25,7 +25,7 @@ fazzer a conexçao com o repositorio remoto.
 tem que criar o repositorio no git hub pra poder conectar com o git criado localmente.
 copia e cola o link do repositorio criado no git hu sem adicinar o readme inicialmente e cola no bash e dar um enter.
 
-git remote add origin https://github.com/Inacio-Ferreira/git-hub-inacio-2.git
+git remote add origin "endereco do repositorio" mostra quando cria o repositorio sem adicinar o readme inicial.
 
 por fim envia o arquivo para o repositorio recem conectado
 
