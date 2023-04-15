@@ -32,3 +32,11 @@ por fim envia o arquivo para o repositorio recem conectado
 git push origin main = envia os arquivos para o repositorio.
 
 agora é so atualizar a pagina do repositorio para ver os arquivos enviados.
+
+editando oline e atualizando localmente.
+
+ao clicar no botão de editar do repositorio remoto, apos finalizar a edição clicar em commit changes para enviar as informações ao repositorio.
+para atualizar no repositorio local
+executar comando:
+git pull oringin main
+no git bash
