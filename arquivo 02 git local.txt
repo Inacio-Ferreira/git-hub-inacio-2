@@ -40,3 +40,5 @@ para atualizar no repositorio local
 executar comando:
 git pull oringin main
 no git bash
+
+editei oline e vivi viu.
