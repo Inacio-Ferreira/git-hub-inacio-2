@@ -42,3 +42,5 @@ git pull oringin main
 no git bash
 
 editei oline e vivi viu.
+
+editei offline e vivi também viu.
