@@ -50,3 +50,5 @@ instalado no notebook em 18/04/2023.
 faltou a mensagem
 
 editei online pra teste
+
+"editei off line pra teste também e deu certo"
